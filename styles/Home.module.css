@@ -1,0 +1,12 @@
+.Layout {
+  padding: 0 50px;
+  height: 100%;
+  box-sizing: border-box;
+  flex-grow: 1
+}
+
+.Content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
